@@ -1,6 +1,5 @@
 <h2 align="center">2025 2학기 Capstone</h2>
 
----
 
 | name | profile | role |
 |--------|--------|--------|
